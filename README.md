@@ -7,7 +7,7 @@ Zbb denotes - basic bit instructions, Zbe - extract/ deposit instructions, Zbp -
 
 _______________________________________________________________________________
 
-You may find follwoing links useful if you interested with this project:
+You may find following links useful, if you are interested with this project:
 
 Ariane(CVA6) Core page: https://github.com/openhwgroup/cva6
 
