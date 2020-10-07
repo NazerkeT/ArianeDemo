@@ -4,3 +4,10 @@ Hardware behaves well for basic test of all instructions in above mentioned grou
 Zbb denotes - basic bit instructions, Zbe - extract/ deposit instructions, Zbp - bit permutation instructions, Zbs - single bit instructions.  
 
 'new' folder contains wrapper, 'imports' folder contains include packages of 'riscv', 'ariane'. Also it contains all the source files necessary for wrapper functionality.  
+
+You may find follwoing links useful if you interested with this project:
+Ariane(CVA6) Core page: https://github.com/openhwgroup/cva6
+RISCV-Bitmanip page   : https://github.com/riscv/riscv-bitmanip
+OpenPiton Platform    : https://github.com/PrincetonUniversity/openpiton
+Ibex RISC-V Core      : https://github.com/lowRISC/ibex
+
