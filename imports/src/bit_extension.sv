@@ -1,3 +1,5 @@
+// Author: Nazerke Turtayeva <nazerke.turtayeva@nu.edu.kz>
+//
 // Date: 12.08.2020
 // Description: Seperate bit extension module to keep ALU clean
 
